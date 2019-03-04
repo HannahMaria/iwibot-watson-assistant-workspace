@@ -2904,7 +2904,7 @@
           ],
           "selection_policy": "sequential"
         },
-        "actionToInvoke": "Timetable"
+        "actionToInvoke": "IWIBot/Timetable"
       },
       "parent": "node_21_1504285878656",
       "metadata": {},
@@ -3504,7 +3504,7 @@
           "values": [],
           "selection_policy": "sequential"
         },
-        "actionToInvoke": "Timetable"
+        "actionToInvoke": "IWIBot/Timetable"
       },
       "metadata": {},
       "conditions": "#Timetables && @Wochentage",
